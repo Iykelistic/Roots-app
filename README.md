@@ -1,4 +1,4 @@
-# Create an awesome 3d Landing Page for iphone in React JS
+# Create an awesome 3d Landing Page in React JS
 
 <!--
 ![GitHub stars](https://img.shields.io/github/stars/codebucks27/Apple-iphone-3d-landing-page-starter-Code?style=social&logo=ApacheSpark&label=Stars&cacheSeconds=3600)&nbsp;&nbsp;
